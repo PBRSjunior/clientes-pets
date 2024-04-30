@@ -1,1 +1,3 @@
-spring.application.name=clientes-pets
+server:
+ servlet:
+    context-path: /cliente-pets/api
